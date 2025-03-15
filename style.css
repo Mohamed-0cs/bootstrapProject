@@ -1,0 +1,13 @@
+body {
+    font-family: "Inconsolata", sans-serif;
+    text-align: center;
+}
+
+.bgimg {
+    background: url("backgroundd.jpg") center/cover no-repeat;
+    min-height: 75vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
